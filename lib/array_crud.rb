@@ -30,7 +30,7 @@ def remove_element_from_end_of_array(array)
  my_array.pop("nice")
  
  my_array.inspect
-
+puts my_array
 end
 
 
