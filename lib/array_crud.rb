@@ -39,7 +39,7 @@ my_array.shift("ginger")
 end
 
 def retrieve_element_from_index(array, index_number)
-  
+  array[0]
 end
 
 def retrieve_first_element_from_array(array)
