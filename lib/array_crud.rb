@@ -18,7 +18,7 @@ end
 def add_element_to_start_of_array(array)
 
  my_array = [ "ginger", "spice", "everything", "nice"]
-door_array = pop
+door_array = my_array
  puts my_array.inspect 
 
 end
