@@ -18,7 +18,7 @@ def add_element_to_start_of_array(array,element)
  my_array = Array.new
   my_array = [ "ginger", "spice", "everything", "nice"]
 
-my_array.unshift(array)
+my_array.unshift("wow")
  
 end
 
