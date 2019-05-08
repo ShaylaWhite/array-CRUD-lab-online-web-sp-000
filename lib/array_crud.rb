@@ -11,7 +11,7 @@ def add_element_to_end_of_array(array, element)
  my_array = Array.new
  my_array = [ "ginger", "spice", "everything", "nice"]
  my_array.unshift("arrays!")
- 
+ puts my_array.inspect 
   
 end
 
