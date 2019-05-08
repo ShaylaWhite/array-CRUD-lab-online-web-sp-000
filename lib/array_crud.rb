@@ -21,14 +21,14 @@ def add_element_to_start_of_array(array,element)
 my_array.unshift("wow")
  
 end
-my_array = Array.new
-  my_array = [ "ginger", "spice", "everything", "nice"]
 
-my_array.pop("wow")
 
 
 def remove_element_from_end_of_array(array)
-  
+  my_array = Array.new
+  my_array = [ "ginger", "spice", "everything", "nice"]
+
+my_array.pop("wow")
 end
 
 def remove_element_from_start_of_array(array)
