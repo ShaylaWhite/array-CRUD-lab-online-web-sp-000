@@ -9,15 +9,14 @@ end
 
 def add_element_to_end_of_array(array, element)
 
-  
 end
+
 
 def add_element_to_start_of_array(array)
 famous_cats = ["lil' bub", "grumpy cat", "Maru"]
  
 famous_cats.unshift("nala cat")
  
-puts famous_cats.inspect
 end
 
 
