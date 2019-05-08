@@ -39,6 +39,7 @@ def remove_element_from_start_of_array(array)
   my_array = [ "ginger", "spice", "everything", "nice"]
 my_array.shift("ginger")
 my_array.inspect
+puts my_array
 end
 
 def retrieve_element_from_index(array, index_number)
